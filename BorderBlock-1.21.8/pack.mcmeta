@@ -1,10 +1,10 @@
 {
   "pack": {
+     "description": "Делает блок границ мир, сделано хуйхзтратом"
      "pack_format": 48,
        "supported_formats": {
            "min_inclusive": 15,
            "max_inclusive": 59
     }
-     "description": "Делает блок границ мир\nСделано хуйхзтратом"
   }
 }
